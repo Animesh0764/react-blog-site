@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I have made this basic blogs displaying site frontend where you can add blogs and delete them. The users are static because there is no implementation of backend.
+
+I took this project to understand the basics of the React framework and I have learnt a lot.
+
+Some of the concept I learnt through this project are: Custom Hooks UseState and UseEffect Routing and many more...
+
+I would continue expanding my knowledge about ReactJS and making more projects in future.
+
+Made by Animesh Singh with ❤️
+
 ## Available Scripts
 
 In the project directory, you can run:
