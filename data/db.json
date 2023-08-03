@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first react project",
+      "body": "Lorem ipsum dolor sit amet",
+      "author": "Animesh Singh",
+      "id": 1
+    },
+    {
+      "title": "Heil Hitler",
+      "body": "Auf der Heide blüht ein kleines Blümelein Und das heißt",
+      "author": "Kanye West",
+      "id": 2
+    },
+    {
+      "title": "Vanshika v/s Ghost",
+      "body": "Who wins? Visit -6 Geeta Bhawan to find out",
+      "author": "Oppenheimer",
+      "id": 3
+    }
+  ]
+}
